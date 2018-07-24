@@ -1,0 +1,16 @@
+.about-panel{
+    padding: 3px 10px;
+    margin-block-end: 10px;
+    background: #FFE;
+    border-radius: 3px;
+    border: 1px dashed #DDD;
+}
+.about-title{
+    color: #666;
+    padding: 5px;
+    border-left: 2px solid #EA1E63;
+    background: #EEE;
+}
+.about p{
+    color: #333
+}

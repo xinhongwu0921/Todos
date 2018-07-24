@@ -1,0 +1,24 @@
+.add-item{
+  display: flex;
+}
+
+.add-item input[type="text"]{
+    flex-basis: 0;
+    flex-grow: 7;
+    padding: 10px;
+    border: 2px solid #EA1E63;
+    border-radius: 4px 0 0 4px;
+    color: #777;
+}
+
+.add-item input[type="submit"]{
+    flex-basis: 0;
+    flex-grow: 3;
+    padding: 10px;
+    background: #EA1E63;
+    border-radius: 0 4px 4px 0;
+    border: 2px solid #EA1E63;
+    color: #fff;
+    text-transform: uppercase;
+    cursor: pointer;
+}
